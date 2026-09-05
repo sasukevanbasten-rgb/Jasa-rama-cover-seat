@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jasa-rama-cover-seat.vercel.app/sitemap.xml
